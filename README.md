@@ -45,9 +45,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
   - Este projeto é individual;
 
-  - Serão `X` dias de projeto;
+  - Serão `2` dias de projeto;
 
-  - Data de entrega do projeto: `dd/mm/yyyy - 14:00h`
+  - Data de entrega do projeto: `07/07/2023 23:59`
 
 </details>
 
@@ -77,9 +77,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone o repositório
 
-  - `git clone git@github.com:tryber/sd-0x-project-js-unit-tests.git`
+  - `git clone git@github.com:tryber/sd-034-project-js-unit-tests.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-project-js-unit-tests`
+    - `cd sd-034-project-js-unit-tests`
 
   2. Instale as dependências
 
@@ -120,13 +120,13 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Usando o exemplo anterior: `git push -u origin joaozinho-js-unit-tests`
 
 7. Crie um novo `Pull Request` _(PR)_
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-js-unit-tests/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-034-project-js-unit-tests/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Clique no botão verde _"Create pull request"_
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-js-unit-tests/pulls) e confira que o seu _Pull Request_ está criado.
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-034-project-js-unit-tests/pulls) e confira que o seu _Pull Request_ está criado.
 
 </details>
 
@@ -158,7 +158,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu nome de pessoa usuária**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-034`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -206,7 +206,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   VERIFIQUE COM CUIDADO SE O LINK SE REFERE AO PROJETO CORRETO!!!
 
-  Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+  Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH34&template=betrybe/sd-0x-project-js-unit-tests)
 
   ⚠️ **O avaliador automático não necessariamente avalia o seu projeto na ordem em que os requisitos aparecem no README, pois o objetivo dele é tornar ágil a avaliação. Portanto, ao perceber esse processo não se preocupe, ok?.**
 
