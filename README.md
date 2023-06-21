@@ -132,7 +132,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
 <details>
   <summary><strong>⌨️ Durante o desenvolvimento</strong></summary><br />
-  * ⚠️ **PULL REQUESTS COM ISSUES NO LINTER NÃO SERÃO AVALIADAS. ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
+   ⚠️ **PULL REQUESTS COM ISSUES NO LINTER NÃO SERÃO AVALIADAS. ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
 
   - Faça `commits` das alterações que você fizer no código regularmente
 
